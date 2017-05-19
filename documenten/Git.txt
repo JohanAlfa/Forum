@@ -1,0 +1,7 @@
+// aan het einde van de dag sla je de wijzigingen die
+// je gedaan hebt met onderstaande commando’s op
+
+git add .
+git commit -m “wat is er gebeurt??”
+git push —u
+  
